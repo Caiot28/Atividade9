@@ -15,6 +15,4 @@ main (){
 
     printf("Numero de valores pares: %d", contador);
 
-
-
 }

@@ -22,6 +22,4 @@ main(){
         printf("\n%d", A[i]);
     }
 
-
-
 }
